@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Servicios
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: "Llámanos o envíanos un WhatsApp:\_56 1987 8301"
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
