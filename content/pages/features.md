@@ -12,8 +12,6 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
 
-        
-
       * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
       * Ut eu nunc at diam fringilla fringilla eu ut massa.
