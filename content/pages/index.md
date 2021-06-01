@@ -39,7 +39,7 @@ sections:
           pagas, hasta la llegada del pedido a la puerta de su hogar.
           Construimos un eCommerce listo para tener éxito. 
         actions:
-          - label: Learn More
+          - label: Ver más
             url: /features
             style: secondary
             has_icon: true
