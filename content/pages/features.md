@@ -36,7 +36,7 @@ sections:
       Construyamos un negocio que genere impacto y hagamos con emprendimiento
       una gran transformación en Latinoamérica.
     actions:
-      - label: Get Started
+      - label: Comienza hoy mismo
         url: '#'
         style: secondary
 seo:
