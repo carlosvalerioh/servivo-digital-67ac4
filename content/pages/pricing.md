@@ -5,6 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Servicios
+    url: 'https://wa.me/+525619878301'
     subtitle: "Agenda una reunión con nosotros: 56 1987 8301 te ayudamos a pensar y construir una solución para tu negocio. Da click aquí"
     pricing_plans:
       - title: Basic
