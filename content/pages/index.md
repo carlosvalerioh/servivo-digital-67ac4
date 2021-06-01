@@ -80,8 +80,9 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Estos chicos realmente están preocupados por crear valor para todos
+          nostros sus aliados. Están comprometidos con la transformación digital
+          de Latinoamérica.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
