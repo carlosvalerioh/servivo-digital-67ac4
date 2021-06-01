@@ -49,7 +49,7 @@ sections:
       - title: Desarrollo de Tecnología a la medida
         image: /images/3410814.png
         image_alt: App user profile preview
-        content: "Construcción de productos digitales sobre necesidades del negocio y sus clientes. Más que una App o una plataforma web genérica.\_\n"
+        content: "Construcción de productos digitales sobre **necesidades del negocio** y sus clientes. Más que una App o una plataforma web genérica.\_\n"
         actions:
           - label: Ver más
             url: /pricing
