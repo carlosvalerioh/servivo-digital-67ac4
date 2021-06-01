@@ -66,8 +66,10 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Lo increíble de Servivo Digital es que puedes escalar con su ayuda.
+          Desde la construcción de nuestra web, hasta dar el paso en la
+          construcción de nuestra web, hasta dar el paso en la construcción de
+          nuestro ecommerce y un modelo de negocio totalmente nuevo.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
