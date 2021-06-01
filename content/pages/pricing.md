@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Servicios
-    subtitle: "Llámanos o envíanos un WhatsApp:\_56 1987 8301"
+    subtitle: "Agenda una reunión con nosotros:\_56 1987 8301\_te ayudamos a pensar una solución de para tu negocio."
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
