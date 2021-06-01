@@ -29,7 +29,6 @@
             },
             {
                 "label": "Comienza",
-                "url": "/signup",
                 "style": "primary"
             }
         ]
