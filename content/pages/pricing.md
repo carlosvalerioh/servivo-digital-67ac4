@@ -30,7 +30,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: Contacto
             url: 'https://wa.me/+525619878301'
             style: primary
       - title: Enterprise
