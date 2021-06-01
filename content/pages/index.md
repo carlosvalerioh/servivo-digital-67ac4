@@ -8,7 +8,7 @@ sections:
     title: Somos expertos en construcción de negocios digitales.
     content: >
       Te acompañamos en el proceso de transformación digital con más de 10 años
-      de experiencia creando tecnología y construyendo Negocios Digitales.
+      de experiencia creando tecnología y **construyendo Negocios Digitales**.
     actions:
       - label: Ver más
         url: /pricing
