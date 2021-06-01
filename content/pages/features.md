@@ -37,7 +37,7 @@ sections:
       una gran transformación en Latinoamérica.
     actions:
       - label: Comienza hoy mismo
-        url: '#'
+        url: 'https://wa.me/+525619878301'
         style: secondary
 seo:
   title: Features
