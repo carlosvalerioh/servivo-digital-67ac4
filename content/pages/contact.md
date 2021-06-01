@@ -4,7 +4,7 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Contacto
     content: >
       Envíanos un mensaje y cuéntanos lo que podemos hacer por ti.
 
