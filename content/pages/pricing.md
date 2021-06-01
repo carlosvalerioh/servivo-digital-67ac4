@@ -31,7 +31,7 @@ sections:
         highlight: true
         actions:
           - label: Order Now
-            url: /signup
+            url: 'https://wa.me/+525619878301'
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
