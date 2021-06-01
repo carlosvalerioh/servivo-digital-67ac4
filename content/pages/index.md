@@ -36,9 +36,9 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           Construimos pensando en tu negocio. Nos encargamos de diseñar las
-          mejores experiencias para tus clientes: desde la forma en la que
+          **mejores experiencias para tus clientes**: desde la forma en la que
           pagas, hasta la llegada del pedido a la puerta de su hogar.
-          Construimos un eCommerce listo para tener éxito. 
+          Construimos un **eCommerce listo para tener éxito.**
         actions:
           - label: Ver más
             url: /pricing
