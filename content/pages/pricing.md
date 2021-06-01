@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Servicios
     url: 'https://wa.me/+525619878301'
-    subtitle: "Agenda una reunión con nosotros:\_ te ayudamos a pensar y construir una solución para tu negocio. Da click aquí"
+    subtitle: "Agenda una reunión con nosotros:\_\_\_56 1987 8301\_te ayudamos a pensar y construir una solución para tu negocio. Da click aquí"
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
