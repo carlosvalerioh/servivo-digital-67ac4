@@ -16,7 +16,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
+          - label: Contacto
             url: 'https://wa.me/+525619878301'
             style: secondary
       - title: Professional
