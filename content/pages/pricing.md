@@ -43,7 +43,7 @@ sections:
           * Phasellus lobortis risus laoreet quam
         actions:
           - label: Order Now
-            url: /signup
+            url: 'https://wa.me/+525619878301'
             style: secondary
   - section_id: faq
     type: section_faq
