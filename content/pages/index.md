@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Conoce nuestros servicios
-    subtitle: servicios para transformar tu negocio
+    subtitle: Servicios para transformar tu negocio
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
