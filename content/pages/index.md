@@ -62,7 +62,7 @@ sections:
     title: Lo que nuestros clientes dicen
     subtitle: Powered bye services
     reviews:
-      - author: Eric Widget
+      - author: 'Luis, CEO de Loscachorros'
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
