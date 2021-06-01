@@ -5,10 +5,12 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Envíanos un mensaje y cuéntanos lo que podemos hacer por ti.
+
+
+      También puedes llamarnos o enviarnos un WhatsApp: [56 1987
+      8301](https://wa.me/+525619878301)
     form_id: contactForm
     form_fields:
       - input_type: text
