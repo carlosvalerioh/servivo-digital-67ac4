@@ -31,7 +31,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Construcción de eCommerce
-        image: images/feature2.png
+        image: /images/feature2-elbueno.png
         image_alt: App users welcoming a new member
         content: >
           Construimos pensando en tu negocio. Nos encargamos de diseñar las
