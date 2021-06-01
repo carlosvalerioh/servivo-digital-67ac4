@@ -12,7 +12,7 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Pm22t2YVxmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
 
       * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
