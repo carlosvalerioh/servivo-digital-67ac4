@@ -25,7 +25,7 @@ sections:
         content: "Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.\_\n"
         actions:
           - label: Ver más
-            url: /features
+            url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
