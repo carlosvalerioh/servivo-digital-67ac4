@@ -8,7 +8,7 @@ sections:
     url: 'https://wa.me/+525619878301'
     subtitle: >-
       Agenda una reunión con nosotros: te ayudamos a pensar y construir una
-      solución para tu negocio. Da click aquí
+      solución para tu negocio.
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
