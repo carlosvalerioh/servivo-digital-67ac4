@@ -51,7 +51,7 @@ sections:
         content: "Construcción de productos digitales sobre necesidades del negocio y sus clientes. Más que una App o una plataforma web genérica.\_\n"
         actions:
           - label: Ver más
-            url: /features
+            url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
