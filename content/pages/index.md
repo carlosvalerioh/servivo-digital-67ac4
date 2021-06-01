@@ -24,7 +24,7 @@ sections:
         image_alt: App preview on a phone and tablet
         content: "Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.\_\n"
         actions:
-          - label: Learn More
+          - label: Ver más
             url: /features
             style: secondary
             has_icon: true
