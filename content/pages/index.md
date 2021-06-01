@@ -11,7 +11,7 @@ sections:
       de experiencia creando tecnología y construyendo Negocios Digitales.
     actions:
       - label: Ver más
-        url: /features
+        url: /pricing
         style: primary
   - section_id: features
     type: section_features
