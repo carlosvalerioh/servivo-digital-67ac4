@@ -91,7 +91,7 @@ sections:
       una gran transformación en Latinoamérica.
     actions:
       - label: Comienza hoy mismo
-        url: /signup
+        url: 'https://wa.me/+525619878301'
         style: primary
   - section_id: recent-posts
     type: section_posts
