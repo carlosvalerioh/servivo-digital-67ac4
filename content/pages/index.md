@@ -10,7 +10,7 @@ sections:
       Te acompañamos en el proceso de transformación digital con más de 10 años
       de experiencia creando tecnología y construyendo Negocios Digitales.
     actions:
-      - label: Learn More
+      - label: Ver más
         url: /features
         style: primary
   - section_id: features
