@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Servicios
-    subtitle: "Agenda una reunión con nosotros:\_56 1987 8301\_te ayudamos a pensar y construir una solución para tu negocio.\_Da click aquí"
+    subtitle: "Agenda una reunión con nosotros:\_\_56 1987 8301\_te ayudamos a pensar y construir una solución para tu negocio.\_Da click aquí"
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
