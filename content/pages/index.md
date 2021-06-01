@@ -40,7 +40,7 @@ sections:
           Construimos un eCommerce listo para tener éxito. 
         actions:
           - label: Ver más
-            url: /features
+            url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
