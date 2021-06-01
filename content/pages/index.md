@@ -90,7 +90,7 @@ sections:
       Construyamos un negocio que genere impacto y hagamos con emprendimiento
       una gran transformación en Latinoamérica.
     actions:
-      - label: Comienza hoy mismoo
+      - label: Comienza hoy mismo
         url: /signup
         style: primary
   - section_id: recent-posts
