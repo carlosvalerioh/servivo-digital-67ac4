@@ -7,7 +7,7 @@ sections:
     title: Servicios
     url: 'https://wa.me/+525619878301'
     subtitle: >-
-      **Agenda una reunión con nosotros: te ayudamos a pensar y construir una
+      **Agenda una reunión con nosotros:** te ayudamos a pensar y construir una
       solución para tu negocio.
     pricing_plans:
       - title: Basic
