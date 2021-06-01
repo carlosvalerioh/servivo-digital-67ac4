@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Somos expertos en construcción de negocios digitales.
     content: >
-      Te acompañamos en el proceso de **transformación digital **con más de 10
+      Te acompañamos en el proceso de **transformación digital** con más de 10
       años de experiencia creando tecnología y **construyendo Negocios
       Digitales**.
     actions:
