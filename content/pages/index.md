@@ -20,7 +20,7 @@ sections:
     subtitle: Servicios para transformar tu negocio
     features:
       - title: Creación de estrategias y modelos de negocios digitales.
-        image: images/feature1.png
+        image: /images/4671167-nego.png
         image_alt: App preview on a phone and tablet
         content: "Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.\_\n"
         actions:
