@@ -14,7 +14,7 @@ sections:
         subtitle: básicos para empresas
         price: Servicios
         details: |-
-          * Plataformas Digitales
+          * - Plataformas Digitales
           * Marketing Digital 
           * Construcción de soluciones web
           * Construción de soluciones móviles
