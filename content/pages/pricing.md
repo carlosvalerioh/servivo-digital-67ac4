@@ -26,12 +26,12 @@ sections:
       - title: Servicios
         subtitle: para empresas
         price: Empresas
-        details: |-
-          * Transformación Digital
-          * Inyección de técnología al negocio
-          * Diseño y construcción de eCommerce
-          * Design Thinking
-          * Auditoria y Consultoría
+        details: |
+          *   Transformación Digital
+          *   Inyección de tecnología al negocio
+          *   Diseño y construcción de eCommerce
+          *   Design Thinking
+          *   Auditoria y Consultoría
         highlight: true
         actions:
           - label: Contacto
