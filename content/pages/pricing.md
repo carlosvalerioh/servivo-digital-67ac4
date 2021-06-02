@@ -11,7 +11,7 @@ sections:
       solución para tu negocio.
     pricing_plans:
       - title: Servicios
-        subtitle: para emprendedores
+        subtitle: para pymes
         price: Pymes
         details: |-
           * - Plataformas Digitales
