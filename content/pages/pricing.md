@@ -30,7 +30,7 @@ sections:
           * Auditoria 
           * Diseño y construcción de eCommerce
           * Design Thinking
-          * Nullam sollicitudin ante
+          * Auditoria y consultoria
         highlight: true
         actions:
           - label: Contacto
