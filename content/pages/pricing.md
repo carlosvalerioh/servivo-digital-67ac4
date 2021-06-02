@@ -26,7 +26,7 @@ sections:
         subtitle: Profesionales para empresas
         price: $49/m
         details: |-
-          * Curabitur non nunc mollis
+          * Transformación Digital
           * Duis a purus nec ligula pellentesque dolor
           * Pellentesque sit amet
           * Fusce tempus mi vitae luctus
