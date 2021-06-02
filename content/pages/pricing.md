@@ -30,7 +30,7 @@ sections:
           * Inyección de técnología al negocio
           * Diseño y construcción de eCommerce
           * Design Thinking
-          * Auditoria y Consultoria
+          * Auditoria y Consultoría
         highlight: true
         actions:
           - label: Contacto
