@@ -29,7 +29,7 @@ sections:
           * Transformación Digital
           * Auditoria 
           * Diseño y construcción de eCommerce
-          * Fusce tempus mi vitae luctus
+          * Design Thinking
           * Nullam sollicitudin ante
         highlight: true
         actions:
