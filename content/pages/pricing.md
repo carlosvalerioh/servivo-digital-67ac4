@@ -38,7 +38,7 @@ sections:
             url: 'https://wa.me/+525619878301'
             style: primary
       - title: Soluciones
-        subtitle: For very large businesses
+        subtitle: para empresas nuevas o en el mercado
         price: Consultoría
         details: |-
           * Ruta hacía la transformación digital
