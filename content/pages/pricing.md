@@ -12,7 +12,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: Para empresas
-        price: Consultoria
+        price: Servicios
         details: |-
           * Plataformas Digitales
           * Marketing Digital 
