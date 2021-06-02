@@ -14,7 +14,7 @@ sections:
         subtitle: For small businesses
         price: Consultoria
         details: |-
-          * Lorem ipsum dolor sit amet
+          * 
           * Mauris a mi tincidunt
           * Suspendisse ut lacus
           * Etiam eget dui a augue
