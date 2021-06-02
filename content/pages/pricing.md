@@ -12,7 +12,7 @@ sections:
     pricing_plans:
       - title: Servicios
         subtitle: Básicos para emprendedores
-        price: Servicios
+        price: Emprendedores
         details: |-
           * - Plataformas Digitales
           * - Marketing Digital 
