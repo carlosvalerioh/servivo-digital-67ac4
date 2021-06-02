@@ -28,7 +28,7 @@ sections:
         details: |-
           * Transformación Digital
           * Auditoria 
-          * Pellentesque sit amet
+          * eCommerc
           * Fusce tempus mi vitae luctus
           * Nullam sollicitudin ante
         highlight: true
