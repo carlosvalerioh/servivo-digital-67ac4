@@ -27,7 +27,7 @@ sections:
         price: $49/m
         details: |-
           * Transformación Digital
-          * Auditoria 
+          * Inyección de técnología al negocio
           * Diseño y construcción de eCommerce
           * Design Thinking
           * Auditoria y consultoria
