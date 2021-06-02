@@ -37,7 +37,7 @@ sections:
           - label: Contacto
             url: 'https://wa.me/+525619878301'
             style: primary
-      - title: Enterprise
+      - title: Soluciones
         subtitle: For very large businesses
         price: Consultoría
         details: |-
