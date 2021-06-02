@@ -24,7 +24,7 @@ sections:
             style: secondary
       - title: Servicios
         subtitle: Profesionales para empresas
-        price: $49/m
+        price: Empresas
         details: |-
           * Transformación Digital
           * Inyección de técnología al negocio
@@ -38,7 +38,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
-        price: Empresas
+        price: $149/m
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
