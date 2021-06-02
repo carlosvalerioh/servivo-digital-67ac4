@@ -42,7 +42,7 @@ sections:
         price: Consultoría
         details: |-
           * Ruta hacía la transformación digital
-          * Construcción de tecnología centrada en las necesidades de negocio
+          * Construcción de tecnología centrada en negocio
           * Mauris eleifend sapien
           * Phasellus lobortis risus laoreet quam
         actions:
