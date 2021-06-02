@@ -41,7 +41,7 @@ sections:
         subtitle: For very large businesses
         price: Consultoría
         details: |-
-          * Ruta de transformación digital
+          * Ruta hacía la transformación digital
           * Construcción de tecnología centrada en las necesidades de negocio
           * Mauris eleifend sapien
           * Phasellus lobortis risus laoreet quam
