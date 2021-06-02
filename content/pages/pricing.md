@@ -28,7 +28,7 @@ sections:
         details: |-
           * Transformación Digital
           * Auditoria 
-          * eCommerc
+          * Diseño y construcción de eCommerce
           * Fusce tempus mi vitae luctus
           * Nullam sollicitudin ante
         highlight: true
