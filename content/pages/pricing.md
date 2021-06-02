@@ -10,8 +10,8 @@ sections:
       Agenda una reunión con nosotros: te ayudamos a pensar y construir una
       solución para tu negocio.
     pricing_plans:
-      - title: Basic
-        subtitle: Para empresas
+      - title: Servicios
+        subtitle: básicos para empresas
         price: Servicios
         details: |-
           * Plataformas Digitales
