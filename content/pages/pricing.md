@@ -12,7 +12,7 @@ sections:
     pricing_plans:
       - title: Servicios
         subtitle: para emprendedores
-        price: 
+        price: Pymes
         details: |-
           * - Plataformas Digitales
           * - Marketing Digital 
