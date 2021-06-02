@@ -27,7 +27,7 @@ sections:
         price: $49/m
         details: |-
           * Transformación Digital
-          * Duis a purus nec ligula pellentesque dolor
+          * Auditoria 
           * Pellentesque sit amet
           * Fusce tempus mi vitae luctus
           * Nullam sollicitudin ante
