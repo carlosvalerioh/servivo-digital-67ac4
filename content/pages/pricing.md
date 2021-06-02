@@ -24,7 +24,7 @@ sections:
             url: 'https://wa.me/+525619878301'
             style: secondary
       - title: Servicios
-        subtitle: Profesionales para empresas
+        subtitle: para empresas
         price: Empresas
         details: |-
           * Transformación Digital
