@@ -40,11 +40,11 @@ sections:
       - title: Soluciones
         subtitle: para empresas nuevas o en el mercado
         price: Consultoría
-        details: |-
-          * Ruta hacía la transformación digital
-          * Construcción de tecnología centrada en negocio
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Ruta hacia la transformación digital
+          *   Construcción de tecnología centrada en negocio
+          *   Construcción de tu propio equipo de tecnología
+          *   Phasellus lobortis risus laoreet quam
         actions:
           - label: Contacto
             url: 'https://wa.me/+525619878301'
