@@ -23,7 +23,7 @@ sections:
             url: 'https://wa.me/+525619878301'
             style: secondary
       - title: Servicios
-        subtitle: 
+        subtitle: profesionales para empresas
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
