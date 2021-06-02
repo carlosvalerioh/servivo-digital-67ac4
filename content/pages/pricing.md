@@ -22,8 +22,8 @@ sections:
           - label: Contacto
             url: 'https://wa.me/+525619878301'
             style: secondary
-      - title: Professional
-        subtitle: For medium-sized businesses
+      - title: Servicios
+        subtitle: F
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
