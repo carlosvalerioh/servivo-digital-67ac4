@@ -11,7 +11,7 @@ sections:
       solución para tu negocio.
     pricing_plans:
       - title: Basic
-        subtitle: For small businesses
+        subtitle: Para empresas
         price: Consultoria
         details: |-
           * Plataformas Digitales
