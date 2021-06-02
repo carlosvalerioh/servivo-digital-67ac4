@@ -11,7 +11,7 @@ sections:
       solución para tu negocio.
     pricing_plans:
       - title: Servicios
-        subtitle: Básicos para empresas
+        subtitle: Básicos para emprendedores
         price: Servicios
         details: |-
           * - Plataformas Digitales
