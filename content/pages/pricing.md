@@ -18,6 +18,7 @@ sections:
           * - Marketing Digital 
           * - Construcción de soluciones web
           * - Construción de soluciones móviles
+          * Construcción de eCommrce
         actions:
           - label: Contacto
             url: 'https://wa.me/+525619878301'
