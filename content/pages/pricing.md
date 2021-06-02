@@ -14,10 +14,10 @@ sections:
         subtitle: For small businesses
         price: Consultoria
         details: |-
-          * 
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * Plataformas Digitales
+          * Marketing Digital 
+          * Construcción de soluciones web
+          * Construción de soluciones móviles
         actions:
           - label: Contacto
             url: 'https://wa.me/+525619878301'
