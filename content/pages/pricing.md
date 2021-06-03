@@ -66,7 +66,7 @@ sections:
           Sí, nosotros podemos darte una asesoría para volverte totalmente Digital. Construímos soluciones de acuerdo con el contexto y las necesidades de los negocios de nuestros clientes.
 seo:
   title: Pricing
-  description: This is the pricing page
+  description: Esta es la página de servicios y precioos
   extra:
     - name: 'og:type'
       value: website
