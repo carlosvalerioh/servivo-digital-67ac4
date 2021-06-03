@@ -53,7 +53,7 @@ sections:
     type: section_faq
     background: gray
     title: Preguntas frecuentes
-    subtitle: 'T.'
+    subtitle: '.'
     faq_items:
       - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
         answer: >-
