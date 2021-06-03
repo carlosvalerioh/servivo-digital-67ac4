@@ -58,7 +58,7 @@ sections:
       - question: ¿Cómo puedo agendar una consultoría? 
         answer: >-
           La primer sesión de consultoría es totalmente gratis. Puedes agendar tu sesión escribiendo un mensaje de WhatsApp: 5619878301 
-      - question: ¿Cuánto tardan en dar resultdos? 
+      - question: ¿Cuánto tardan en entregar? 
         answer: >-
           El pago de los servicios puede hacerse por una transferencia bancaria. También puedes pagar con 
       - question: Sed scelerisque in ipsum eu sollicitudin?
