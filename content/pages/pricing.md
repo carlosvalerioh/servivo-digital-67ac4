@@ -58,7 +58,7 @@ sections:
       - question: ¿Cómo puedo agendar una consultoría? 
         answer: >-
           La primer sesión de consultoría es totalmente gratis. Puedes agendar tu sesión escribiendo un mensaje de WhatsApp: 5619878301 
-      - question: ¿Cuánto tiempo  entregar? 
+      - question: ¿Cuánto tiempo dura la entrega? 
         answer: >-
           Durante la primer sesión de consultoría hadecemos una planeación de los direrentes sprints del proyecto. Colocamos una fecha de entregas (En promedio 60 días)
       - question: Sed scelerisque in ipsum eu sollicitudin?
