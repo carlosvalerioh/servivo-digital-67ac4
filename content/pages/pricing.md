@@ -60,7 +60,7 @@ sections:
           La primer sesión de consultoría es totalmente gratis. Puedes agendar tu sesión escribiendo un mensaje de WhatsApp: 5619878301 
       - question: ¿Cuánto tiempo dura la entrega? 
         answer: >-
-          Durante la primer sesión de consultoría hadecemos una planeación de los diferrentes sprints y etapas del proyecto. Colocamos una fecha de entregas (En promedio 60 días)
+          Durante la primer sesión de consultoría hadecemos una planeación de los diferrentes sprints y etapas del proyecto. Siempr colocamos una fecha de entrega de los diferentes hitos del proyecto (En promedio 60 días)
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
