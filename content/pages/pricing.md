@@ -58,7 +58,7 @@ sections:
       - question: ¿Cómo puedo agendar una consultoría? 
         answer: >-
           La primer sesión de consultoría es totalmente gratis. Puedes agendar tu sesión escribiendo un mensaje de WhatsApp: 5619878301 
-      - question: ¿Cómo trabajan? 
+      - question: ¿Cómo se hace el pago? 
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
