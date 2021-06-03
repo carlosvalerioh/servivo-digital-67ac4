@@ -44,7 +44,7 @@ sections:
           *   Transformación digital
           *   Construcción de tecnología centrada en negocio
           *   Construcción de tu propio equipo de tecnología
-          *   Phasellus lobortis risus laoreet quam
+          *   
         actions:
           - label: Contacto
             url: 'https://wa.me/+525619878301'
