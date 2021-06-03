@@ -41,7 +41,7 @@ sections:
         subtitle: para empresas nuevas o en el mercado
         price: Consultoría
         details: |
-          *   Ruta hacia la transformación digital
+          *   Transformación digital
           *   Construcción de tecnología centrada en negocio
           *   Construcción de tu propio equipo de tecnología
           *   Phasellus lobortis risus laoreet quam
