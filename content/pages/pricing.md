@@ -57,11 +57,7 @@ sections:
     faq_items:
       - question: ¿Cómo puedo agendar una consultoría? 
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+          La primer sesión de consultoría es totalmeente gratis. Puedes ageendaala escribiendo un mensaje de WhatsApp: 
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
