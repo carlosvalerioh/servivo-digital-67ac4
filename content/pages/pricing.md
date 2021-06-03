@@ -61,15 +61,9 @@ sections:
       - question: ¿Cuánto tiempo dura la entrega del proyecto? 
         answer: >-
           Durante la primer sesión de consultoría hadecemos una planeación de los diferrentes sprints y etapas del proyecto. Siempr colocamos una fecha de entrega de los diferentes hitos del proyecto (En promedio 60 días)
-      - question: ¿
+      - question: ¿Ustedes me pueden ayudar a saber lo que necsito? 
         answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+          Sí, nosotros podemos darte una asesoria para volverte Digital. Construimos soluuciones de acuerdo con el contexto y las necesidades de los negocios de nuestros clientes.
 seo:
   title: Pricing
   description: This is the pricing page
