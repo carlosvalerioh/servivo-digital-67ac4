@@ -57,7 +57,7 @@ sections:
     faq_items:
       - question: ¿Cómo puedo agendar una consultoría? 
         answer: >-
-          La primer sesión de consultoría es totalmeente gratis. Puedes ageendaala escribiendo un mensaje de WhatsApp: 619878301' 
+          La primer sesión de consultoría es totalmeente gratis. Puedes ageendaala escribiendo un mensaje de WhatsApp: 5619878301' 
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
