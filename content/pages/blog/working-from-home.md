@@ -39,7 +39,7 @@ layout: post
 ---
 
 
-Ser digital 
+**Ser digital**
 
 Ser digital es cambiar y mejorar no solo a la organización, sino también a ti mismo. Ser digital se trata de velocidad y agilidad, no solo para tu cliente, sino en la forma en que todos realizan el trabajo y colaboran como organización. Para impulsar un cambio permanente y duradero, sé deliberado sobre los diferentes hábitos que tu equipo directo empiece a practicar como parte de esta misión. 
 
