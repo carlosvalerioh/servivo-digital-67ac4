@@ -13,12 +13,15 @@ sections:
       - title: Servicios
         subtitle: para pymes y emprendedores
         price: Pymes
-        details: |-
-          * - Plataformas Digitales
-          * - Marketing Digital 
-          * - Construcción de soluciones web
-          * - Construción de soluciones móviles
-          * Construcción de eCommrce
+        details: |
+          *   *   Plataformas Digitales
+          *   *   Marketing Digital
+          *   *   Construcción de soluciones web
+          *   Construcción de soluciones móviles
+
+          <!---->
+
+          *   Construcción de eCommrce
         actions:
           - label: Contacto
             url: 'https://wa.me/+525619878301'
@@ -53,17 +56,23 @@ sections:
     type: section_faq
     background: gray
     title: Preguntas frecuentes
-    subtitle: '.'
+    subtitle: .
     faq_items:
-      - question: ¿Cómo puedo agendar una consultoría? 
+      - question: ¿Cómo puedo agendar una consultoría?
         answer: >-
-          La primer sesión de consultoría es totalmente gratis. Puedes agendar tu sesión escribiendo un mensaje de WhatsApp: 5619878301 
-      - question: ¿Cuánto tiempo dura la entrega del proyecto? 
+          La primer sesión de consultoría es totalmente gratis. Puedes agendar
+          tu sesión escribiendo un mensaje de WhatsApp: 5619878301 
+      - question: ¿Cuánto tiempo dura la entrega del proyecto?
         answer: >-
-          Durante la primer sesión de consultoría hadecemos una planeación de los diferrentes sprints y etapas del proyecto. Siempr colocamos una fecha de entrega de los diferentes hitos del proyecto (En promedio 60 días)
-      - question: ¿Me pueden ayudar a saber lo que necesito? 
+          Durante la primer sesión de consultoría hadecemos una planeación de
+          los diferrentes sprints y etapas del proyecto. Siempr colocamos una
+          fecha de entrega de los diferentes hitos del proyecto (En promedio 60
+          días)
+      - question: ¿Me pueden ayudar a saber lo que necesito?
         answer: >-
-          Sí, nosotros podemos darte una asesoría para volverte totalmente Digital. Construímos soluciones de acuerdo con el contexto y las necesidades de los negocios de nuestros clientes.
+          Sí, nosotros podemos darte una asesoría para volverte totalmente
+          Digital. Construímos soluciones de acuerdo con el contexto y las
+          necesidades de los negocios de nuestros clientes.
 seo:
   title: Pricing
   description: Esta es la página de servicios y precios
