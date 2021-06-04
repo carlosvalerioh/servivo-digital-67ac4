@@ -10,7 +10,7 @@ thumb_image_alt: People in a conference room
 image: images/9.jpg
 image_alt: People in a conference room
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+title: ¿Qué significa tener 
   description: A tale about advantages and disadvantages of working from home
   extra:
     - name: 'og:type'
