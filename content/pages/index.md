@@ -11,7 +11,7 @@ sections:
       años de experiencia creando tecnología y **construyendo Negocios
       Digitales**.
     actions:
-      - label: Ver más
+      - label: CONTÁCTANOS
         url: /pricing
         style: primary
   - section_id: features
