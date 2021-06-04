@@ -11,7 +11,7 @@ image: images/9.jpg
 image_alt: People in a conference room
 seo:
 title: ¿Qué significa ser Digital? 
-  description: A tale about advantages and disadvantages of working from home
+  description: Ser Digital, construir la transformación digital. 
   extra:
     - name: 'og:type'
       value: article
