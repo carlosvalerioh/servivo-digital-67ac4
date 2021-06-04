@@ -38,6 +38,20 @@ title: ¿Qué significa ser Digital?
 layout: post
 ---
 
+
+Ser digital 
+
+Ser digital es cambiar y mejorar no solo a la organización, sino también a ti mismo. Ser digital se trata de velocidad y agilidad, no solo para tu cliente, sino en la forma en que todos realizan el trabajo y colaboran como organización. Para impulsar un cambio permanente y duradero, sé deliberado sobre los diferentes hábitos que tu equipo directo empiece a practicar como parte de esta misión. 
+
+
+Se dice que a las únicas personas a quienes les gusta el cambio son los bebés. Pero un apetito por el cambio es lo que separa a los innovadores de los rezagados, los empresarios de los burócratas y los ganadores de los perdedores digitales. 
+
+Los profesionales, equipos y empresas que aprenden a amar el cambio que son adictos a desafiar el statu quo, son los ganadores digitales. Debes exprimir hasta la última gota de capacidad todos los días, hasta que tú y tu organización sean excelentes. Luego lava, enjuaga y repite.
+ 
+¿Por qué? Porque lo digital no es ni la tecnología ni las redes sociales. Lo digital es competir de manera diferentes para aprovechar las nuevas experiencias de los clientes, las prácticas empresariales eficientes y los modelos comerciales innovadores, que se basan en la convergencia de una amplia gama de capacidades de tecnología e informática, como la computación en la nube, la colaboración social y móvil, la inteligencia artificial y el análisis predicción. Repito. Lo digital no es la tecnología. Se trata de competir de manera diferente. 
+
+
+
 **Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
 
 ## Advantages and Disadvantages
