@@ -61,7 +61,7 @@ sections:
     type: section_reviews
     background: white
     title: Lo que nuestros clientes dicen
-    subtitle: Powered bye services
+    subtitle: Powered by services
     reviews:
       - author: 'Luis, CEO de Loscachorros'
         avatar: images/review1.jpg
