@@ -69,9 +69,9 @@ sections:
           fecha de entrega de los diferentes hitos del proyecto (En promedio 60
           días)
       - question: ¿Me pueden ayudar a saber lo que necesito?
-        answer: >-
+        answer: >
           Sí, nosotros podemos darte una asesoría para volverte totalmente
-          Digital. Construímos soluciones de acuerdo con el contexto y las
+          Digital. Construimos soluciones de acuerdo con el contexto y las
           necesidades de los negocios de nuestros clientes.
 seo:
   title: Pricing
