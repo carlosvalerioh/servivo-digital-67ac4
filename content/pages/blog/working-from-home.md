@@ -10,7 +10,7 @@ thumb_image_alt: People in a conference room
 image: images/9.jpg
 image_alt: People in a conference room
 seo:
-title: ¿Qué significa tener 
+title: ¿Qué significa ser Digital? 
   description: A tale about advantages and disadvantages of working from home
   extra:
     - name: 'og:type'
